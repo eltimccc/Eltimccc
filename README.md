@@ -31,7 +31,7 @@
   
   </div>
   <div>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" text="I am a Python Developer"  width="30">.
+  I am a Python Developer.
 </div>
 
 <!--
