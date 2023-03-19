@@ -30,6 +30,8 @@
 </div>
   
   </div>
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
 
 <!--
 **Eltimccc/Eltimccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
