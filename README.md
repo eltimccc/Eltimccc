@@ -17,7 +17,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=Eltimccc&style=flat-square&color=blue" alt=""/>
 
-  </div>
+ 
 
   I am a Python Developer.
 
@@ -38,6 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
 
+   </div>
 
 <!--
 **Eltimccc/Eltimccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
