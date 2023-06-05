@@ -5,5 +5,5 @@
 # Python | Django | Flask | FastAPI | Linux | Docker | Nginx | PostgreSQL | SQLite | Bootstrap | GIT
  </div>
 
-  - *I am a Python Developer.*
+  - *I am a Python Developer*
   - *Telegram: @eltimc*
