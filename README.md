@@ -6,4 +6,4 @@
  </div>
 
   - *I am a Python Developer*
-  - *Telegram: [@eltimc](https://telegram.me/eltimccc)*
+  - *Telegram: [@eltimccc](https://telegram.me/eltimccc)*
